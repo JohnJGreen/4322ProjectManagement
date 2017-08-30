@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ENB</string>
+
+    <string name="dialog_add_event">Add Event</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_1_text">Create Event</string>
+    <string name="options_exit_text">Exit</string>
+    <string name="add_a_new_event_ad_to_list_view">Add a new event/ad to List View</string>
+
+</resources>
